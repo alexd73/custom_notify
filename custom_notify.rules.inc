@@ -21,7 +21,7 @@ function custom_notify_rules_action_info() {
         'lable' => t('Bot channel'),
         'optional' => FALSE,
         'restriction' => 'input',
-        'description' => t('Pablic channel name (name after https://telegram.me/ with starting @. For sample @test_chat)')
+        'description' => t('Pablic channel name (string after https://telegram.me/ with starting @. For sample @test_chat)')
       ),
       'tg_message' => array(
         'type' => 'text',
