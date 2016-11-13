@@ -1,0 +1,4 @@
+name = Custom notifications
+desctiptions =  Уведомления через Telegram bot APY
+core = 7.x
+dependencies[]=rules

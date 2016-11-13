@@ -1,0 +1,3 @@
+<?php
+define('RULES_CUSTOM_NOTIFY_PATH', drupal_get_path('module', 'custom_notify'));
+
